@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/897510786752710686/b8e805a891064833aa292e8e54ddc174/artifacts
+end_time: 1749216101174
+entry_point_name: ''
+experiment_id: '897510786752710686'
+lifecycle_stage: active
+run_id: b8e805a891064833aa292e8e54ddc174
+run_name: abundant-pug-715
+run_uuid: b8e805a891064833aa292e8e54ddc174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749216093359
+status: 3
+tags: []
+user_id: alghali
